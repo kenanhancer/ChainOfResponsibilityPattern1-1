@@ -1,0 +1,11 @@
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\bin\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.deps.json
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\bin\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.runtimeconfig.json
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\bin\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.runtimeconfig.dev.json
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\bin\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.dll
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\bin\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.pdb
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.csprojAssemblyReference.cache
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.csproj.CoreCompileInputs.cache
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.AssemblyInfoInputs.cache
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.AssemblyInfo.cs
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.dll
+D:\Projects\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\ChainOfResponsibilityPattern1-1\obj\Debug\netcoreapp2.1\ChainOfResponsibilityPattern1-1.pdb
